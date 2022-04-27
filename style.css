@@ -10,7 +10,7 @@ body {
 	align-items: center;
 	height: 100vh;
 	font-family: 'Montserrat', sans-serif;
-	background-color: rgb(75, 184, 25);
+	background-color: rgba(75, 184, 25, 0.486);
 }
 
 
@@ -20,7 +20,7 @@ body {
 	font-size: 1.6rem;
 	border: none;
 	border-radius: 6px;
-	background-color: #fff;
+	background-color: rgba(163, 163, 163, 0.397);
 	cursor: pointer;
 }
 
